@@ -7,7 +7,7 @@ public class HelloITI
 		printYoussef();
 	}
 	
-	void printHelloITISamuel(){
+	void printHelloITISamueladel321(){
 		System.out.printl("Hello ITI");
 		System.out.printl("Hello conflict");
 	}
