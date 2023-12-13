@@ -1,5 +1,11 @@
 public class HelloITI
 {
+
+	public static void main(String[] args) {
+		printHelloITI();
+		printHelloGit();
+		printYoussef();
+	}
 	
 	void printHelloITISamuel(){
 		System.out.printl("Hello ITI");
@@ -7,6 +13,10 @@ public class HelloITI
 	}
 	void printHelloGit(){
 		System.out.printl("Hello Git");
+	}
+	
+	void printYoussef() {
+		System.out.println("Hello, Youssef!");
 	}
 	
 }
